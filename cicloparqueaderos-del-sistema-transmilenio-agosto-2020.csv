@@ -1,20 +1,20 @@
-Cicloparqueadero;Tipo de infraestructura;Troncal de TransMilenio;Promedio H·bil;Promedio S·bado;Promedio Domingos y festivos;Cupos;;;;
-San Mateo;EstaciÛn;NQS Sur;764;610;334;1.449;;;;
-Portal AmÈricas;Portal;AmÈricas;433;340;167;785;;;;
-Portal Sur;Portal;NQS Sur;209;163;95;409;;;;
-Portal Suba;Portal;Suba;176;146;88;710;;;;
-Portal Eldorado;Portal;Calle 26;124;102;57;532;;;;
-Portal 80;Portal;Calle 26;141;118;56;353;;;;
-Portal Tunal;Portal;Caracas Sur;21;19;11;437;;;;
-General Santander;EstaciÛn;NQS Sur;41;36;18;48;;;;
-Banderas;EstaciÛn;AmÈricas;34;29;15;101;;;;
-Av. Rojas;EstaciÛn;Calle 26;13;11;6;104;;;;
-Portal 20 de Julio;Portal;Carrera 10;10;6;4;216;;;;
-Quinta Paredes;EstaciÛn;Calle 26;4;4;5;48;;;;
-Pradera;EstaciÛn;AmÈricas;3;4;2;32;;;;
-Marsella;EstaciÛn;AmÈricas;2;2;2;32;;;;
-Av. AmÈricas - Av. Boyac·;EstaciÛn;AmÈricas;2;2;2;32;;;;
-Transversal 86;EstaciÛn;AmÈricas;2;1;2;84;;;;
-Bicentenario;EstaciÛn;Carrera 10;5;4;5;116;;;;
-Av. 1 de Mayo;EstaciÛn;Carrera 10;10;15;5;228;;;;
-;;;;;;;;;;
+Cicloparqueadero;Tipo de infraestructura;Troncal de TransMilenio;Promedio Habil;Promedio Sabado;Promedio Domingos y festivos;Cupos
+San Mateo;Estaci√≥n;NQS Sur;764;610;334;1.449
+Portal Am√©ricas;Portal;Am√©ricas;433;340;167;785
+Portal Sur;Portal;NQS Sur;209;163;95;409
+Portal Suba;Portal;Suba;176;146;88;710
+Portal Eldorado;Portal;Calle 26;124;102;57;532
+Portal 80;Portal;Calle 26;141;118;56;353
+Portal Tunal;Portal;Caracas Sur;21;19;11;437
+General Santander;Estaci√≥n;NQS Sur;41;36;18;48
+Banderas;Estaci√≥n;Am√©ricas;34;29;15;101
+Av. Rojas;Estaci√≥n;Calle 26;13;11;6;104
+Portal 20 de Julio;Portal;Carrera 10;10;6;4;216
+Quinta Paredes;Estaci√≥n;Calle 26;4;4;5;48
+Pradera;Estaci√≥n;Am√©ricas;3;4;2;32
+Marsella;Estaci√≥n;Am√©ricas;2;2;2;32
+Av. Am√©ricas - Av. Boyac√°;Estaci√≥n;Am√©ricas;2;2;2;32
+Transversal 86;Estaci√≥n;Am√©ricas;2;1;2;84
+Bicentenario;Estaci√≥n;Carrera 10;5;4;5;116
+Av. 1 de Mayo;Estaci√≥n;Carrera 10;10;15;5;228
+
